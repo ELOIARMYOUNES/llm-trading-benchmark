@@ -138,3 +138,10 @@ It does **not constitute financial advice** or a recommendation to trade real ca
 ## License
 
 MIT License
+
+---
+
+## Tags
+
+`LLMs` · `Multimodal AI` · `Quantitative Finance` · `Trading Benchmarks` · `OHLCV` · `Time Series`
+
